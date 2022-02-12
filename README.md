@@ -8,6 +8,7 @@ Esse projeto
 ## Projetos
 
 [Introdução ao Git GitHub](https://github.com/IACarvalho/Livro-de-receitas)
+[Projeto de Jogo Genius](https://github.com/IACarvalho/dio-jogo-da-memoria-estilo-genius)
 
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
